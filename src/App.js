@@ -38,7 +38,6 @@ const App=()=> {
                             <Route path="*">
                                 <Redirect to="/home" />
                             </Route>
-                            {/* <ProgrammingSkills /> */}
                         </Switch>
                     </CSSTransition>
                 </TransitionGroup>
