@@ -6,7 +6,7 @@ const PersonalData = {
     email:"isaac.opra@gmail.com",
     address:"New York City",
     aboutMe:"Hey! I'm Isaac, a Software Engineer located in the wonderful NYC. I am proficient in HTML, CSS, JavaScript and Python and have worked with libraries & frameworks like React, Node.js, Pip3, Express, Flask and Django. I also have a keen knowledge of databases like Postgresql and MongoDB. I have dabbled in both Retool, OpenAI and am an avid enjoyer of Video Games.",
-    resumeLink:'https://docs.google.com/document/d/1UqHnoOoMDvH3X5aE87_QFAkefoA24ldPopUbMgk-91Q/edit?usp=sharing'
+    resumeLink:'https://docs.google.com/document/d/1QPtX8a8DWDxfEt5rL3SwEFUTWA4MU4EBQSI0o58IOKQ/edit?usp=sharing'
 }
 export const autoTypeData=['Software Engineer', 'Web Developer', 'Moba Master'];
 export default PersonalData;
