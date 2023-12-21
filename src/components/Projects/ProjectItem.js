@@ -28,7 +28,7 @@ const ProjectItem = (props) => {
                     <a target="_blank" rel="noreferrer" href={props.project.deployedLink} title="Live Link" style={{color:'orange'}}><StarIcon fontSize="large" /></a>
                     
                 </div>
-                <p className={classes.dateUpdated} style={{color:nonThemeColor}}>Last Updated On : {props.project.lastUpdated}</p>
+                {/* <p className={classes.dateUpdated} style={{color:nonThemeColor}}>Last Updated On : {props.project.lastUpdated}</p> */}
             </div>
         </Card>
     )
